@@ -1,7 +1,6 @@
 import evaluate
 from typing import List, Dict
 from sentence_transformers import SentenceTransformer
-from wordllama import WordLlamaInference
 from numpy import ndarray
 
 bleu = evaluate.load("bleu")

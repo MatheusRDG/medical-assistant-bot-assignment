@@ -169,3 +169,8 @@ As a possible future work I suggest:
    - Finetune using LoRA or QLoRA of the SML to address better possible open generations.
    - Generate summaries and expansions of the dataset to better cover direct match between user query and question (best case).
    - Guardrails in the output for both generation and open_generation cases.
+   - Create specific metrics for retrieval and generation steps.
+      - Metrics for understand if the model is answering.
+      - Metrics for understand if the model is answering correctly.
+      - Metrics for understand if the model is answering properly.
+      - Hallucination measures.
