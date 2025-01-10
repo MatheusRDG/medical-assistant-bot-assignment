@@ -1,0 +1,2 @@
+mean_generation_duration,mean_generation_n_tokens,bleu_score,bertscore_precision,bertscore_recall,bertscore_f1
+6.251158021081082,104.1027027027027,0.014799345920350563,0.7875735505207165,0.7389289403283918,0.7603142851107829
